@@ -1,0 +1,29 @@
+[
+{
+"Id":1,
+"username":"test user",
+"body":[
+{
+"Id":3,
+"bodyType":"text",
+"text":"Hello World"
+},
+{
+"Id":4,
+"bodyType":"image",
+"mediaLocation":"http://.../"
+}
+]
+},
+{
+"Id":2,
+"username":"test user",
+"body":[
+{
+"Id":4,
+"bodyType":"video",
+"mediaLocation":"http://.../"
+}
+]
+}
+]
